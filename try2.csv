@@ -1,0 +1,263 @@
+﻿Id,Injured,Dead,Keywords,Causes,Consequences
+1,2,0,"explosion, laboratory work, evacuation",NA,"explosion, people"
+2,6,0,"fire - consequence, warehousing, evacuation, gas / vapour release, injury",NA,"environmental, explosion, fire, people"
+3,NA, NA,mining,NA,explosion
+4,6,0,"fire - consequence, storage tanks, injury, unidentified cause","process, unidentified","fire, people"
+5,12,0,"storage tanks, gas / vapour release, bursting disc failure, injury",NA,"environmental, people"
+6,0,0,"fire - consequence, storage tanks",NA,fire
+7,NA,25,"mining, fatality",NA,"explosion, people"
+8,3,0,"fire - consequence, laboratory work, burns, injury",NA,"fire, people"
+9,3,0,"fire - consequence, exploration, plant / property / equipment, injury",NA,"fire, people"
+10,0,0,"fire - consequence, laboratory work, protective safety equipment",NA,"explosion, fire, people"
+11,170,0,"gas / vapour release, evacuation, warehousing, injury",NA,"environmental, explosion, people"
+12,0,0,"fire - consequence, warehousing, evacuation, unidentified cause","process, unidentified","fire, people"
+13,0,0,"drilling/digging/ploughing vehicles, fire - consequence",NA,"explosion, fire, people"
+14,1,0,"fire - consequence, laboratory work, unwanted chemical reaction, burns, evacuation, damage to equipment, injury",NA,"fire, people, plant"
+15,0,3,fatality,NA,"people, plant"
+16,0,1,fatality,NA,people
+17,0,0,"fire - consequence, damage to equipment, warehousing, gas / vapour release, ecological damage",NA,"environmental, fire, people, plant"
+18,5,0,"fire - consequence, warehousing, damage to equipment, injury, gas / vapour release",NA,"environmental, fire, people, plant"
+19,56,0,"black powder (gunpowder), warehousing, damage to equipment, fatality, people, injury",NA,"explosion, people, plant"
+20,12,2,"fire - consequence, explosion, fatality, solids processing, injury, mining",NA,"explosion, fire, people"
+21,0,2,"demolition, fatality",NA,"people, plant"
+22,0,0,"fire - consequence, evacuation, warehousing",NA,"fire, people"
+23,1,0,"fire - consequence, warehousing, damage to equipment, storage tanks, cylinder, burns, injury",NA,"fire, people, plant"
+24,2,0,"laboratory work, evacuation, burns, container, injury",NA,"explosion, people"
+25,0,0,"fire - consequence, storage, damage to equipment",NA,"fire, plant"
+26,0,0,"evacuation, laboratory work, gas / vapour release",NA,"environmental, people"
+27,24,1,"gas / vapour release, fire - consequence, evacuation, fatality",NA,"environmental, fire, people"
+28,0,0,"excavation, contamination, preventative measures",NA,plant
+29,0,0,human causes,NA,environmental
+30,0,0,"offshore, exploration, evacuation, weather effects",NA,people
+31,40+, 11+,"marine tanker, demolition, fatality, injury",NA,"explosion, people"
+32,0,0,"fire - consequence, storage tanks, explosion",NA,"explosion, fire"
+33,5,0,"gas / vapour release, people, damage by backhoe, bulldozer/jcb/digger, chemical fumes, injury",external,"environmental, people"
+34,4,0,"fire - consequence, warehousing, burns, injury",NA,"fire, people"
+35,NA,3,fatality,NA,"people, plant"
+36,0,0,"fire - consequence, laboratory work, unknown chemicals, unidentified cause","process, unidentified",fire
+37,600+,20,"warehousing, fire - consequence, fatality, evacuation, injury",NA,"explosion, fire, people"
+38,1,1,"fire - consequence, fatality, storage, injury",NA,"explosion, fire, people"
+39,0,0,"fire - consequence, gas / vapour release",NA,"environmental, fire"
+40,0,0,"fire - consequence, gas / vapour release, plant / property / equipment",NA,"environmental, explosion, fire"
+41,2,1,"loading, fatality, injury",NA,"explosion, people"
+42,13,7,"fatality, injury, mining",NA,"explosion, people"
+43,11,0,"fire - consequence, gas / vapour release, injury, unknown chemicals",NA,"environmental, fire, people"
+44,2,0,"environmental, warehousing, fire - consequence, injury, damage to equipment",NA,"environmental, fire, people, plant"
+45,2,7,"fatality, injury, mining",NA,"explosion, people"
+46,0,0,"laboratory work, mixing, unwanted chemical reaction, damage to equipment, container",NA,"explosion, plant"
+47,2,0,"fire - consequence, warehousing, evacuation, injury",NA,"fire, people"
+48,3,0,"human causes, rupture, fire - consequence, injury",NA,"explosion, fire, people, plant"
+49,0,12,"fire - consequence, fatality, evacuation, mining",NA,"explosion, fire, people"
+50,1,8,"burns, fire - consequence, fatality, damage to equipment, injury",NA,"fire, people, plant"
+51,0,0,"fire - consequence, damage to equipment, contamination, design or procedure error, unknown chemicals",NA,"environmental, explosion, fire, plant"
+52,0,0,"fire - consequence, contamination, warehousing",NA,"fire, plant"
+53,0,0,"storage, storage equipment, fire - consequence, gas / vapour release, toxic fumes",NA,"environmental, fire"
+54,0,0,fire - consequence,NA,"fire, people"
+55,0,0,"unwanted chemical reaction, storage",NA,"environmental, people"
+56,1,0,"fire - consequence, damage to equipment, storage, injury",NA,"fire, people, plant"
+57,35,0,"fire - consequence, evacuation, storage, injury",NA,"explosion, fire, people"
+58,0,0,,NA,explosion
+59,6+, 81+,"fatality, safety procedures inadequate, injury, mining",human,"explosion, people"
+60,5,0,"laboratory work, injury",NA,"explosion, people"
+61,7,0,"gas / vapour release, mechanical equipment failure, injury",NA,"environmental, explosion, people"
+62,0,0,"mechanical equipment failure, storage",NA,"environmental, people, plant"
+63,0,0,"diesel fuel, excavation, spill",NA,environmental
+64,3,0,"excavation damage, evacuation, injury",external,"environmental, people"
+65,0,0,"fire - consequence, storage tanks,",NA,"explosion, fire"
+66,5,0,"hot work, injury",equipment,"explosion, people"
+67,0,0,"ecological damage, pollution, demolition",NA,environmental
+68,4,3,"fatality, gas - flammable, injury",NA,"explosion, people"
+69,13+,0,"fall, injury",NA,"people, plant"
+70,1,0,"drums, leak, storage, injury",NA,"explosion, people"
+71,17,0,"bulldozer/jcb/digger, gas / vapour release, injury",NA,"environmental, people"
+72,5,0,"fire - consequence, laboratory work, injury",NA,"explosion, fire, people"
+73,0,0,"fire - consequence, exploration",NA,fire
+74,0,0,"fire - consequence, storage equipment",NA,fire
+75,1,0,"operator error, asphyxiation, injury",human,people
+76,0,3,"fatality, mining",NA,people
+77,0,0,"evacuation, storage, toxic chemical",external,people
+78,0,0,"fire - consequence, storage",NA,fire
+79,0,0,"fire - consequence, damage to equipment, spill, corrosion, heating equipment",equipment,"environmental, explosion, fire, plant"
+80,0,0,"tank failure, spill, pollution, damage to equipment, storage tanks",equipment,"environmental, plant"
+81,0,0,,NA,people
+82,0,15,"lifting equipment, fatality, electrical equipment failure",NA,people
+83,5,1,"fatality, fall, safety procedures inadequate, injury",human,"people, plant"
+84,4,1,"laboratory work, evacuation, fatality, injury",NA,people
+85,35,11,"excavation, fatality, evacuation, fire - consequence, injury",NA,"explosion, fire, people"
+86,348+, 50+,"fire - consequence, storage, fatality",NA,"explosion, fire, people"
+87,11, NA,"exploration, capsize of platform, mechanical equipment failure",NA,plant
+88,0,0,"spill, offshore",NA,environmental
+89,4+,2,"fatality, injury, mining",NA,"people, plant"
+90,2,0,"fire - consequence, people",NA,"fire, people"
+91,1,1,"exploration, fatality, explosive",NA,"explosion, people"
+92,0,4,"fall, fatality, evacuation",NA,people
+93,31,0,"gas / vapour release, warehousing, fracture, operator error, people","equipment, human",environmental
+94,0,0,"fire - consequence, warehousing",NA,fire
+95,NA,9,"solids processing, injury, fatality, mining",external,people
+96,0,1,"excavation, fatality",NA,"explosion, people"
+97,0,0,"spill, pollution, mechanical equipment failure, design or procedure error, storage tanks",NA,environmental
+98,0,1,"hot work, fatality, offshore",NA,"explosion, people"
+99,NA, 18+,"evacuation, inspection, fatality, mining",NA,"explosion, people"
+100,3+,3,"fatality, injury, mining",NA,"explosion, people"
+101,5,3,"construction, fatality, injury",NA,"people, plant"
+102,1,2,"welding, storage tanks, fire - consequence, evacuation, fatality, injury",equipment,"explosion, fire, people"
+103,0,0,"fire - consequence, marine transport, exploration",NA,fire
+104,0,0,"fire - consequence, evacuation",NA,"fire, people"
+105,0,0,,NA,"environmental, plant"
+106,0,0,"offshore, evacuation",NA,people
+107,0,0,"cleaning, pollution, container, design or procedure error",NA,environmental
+108,30+,35,"fatality, injury, mining",NA,"explosion, people"
+109,NA,44,"fire - consequence, warehousing, fatality, injury",NA,"explosion, fire, people"
+110,0,0,"storage tanks, fire - consequence, damage to equipment",NA,"explosion, fire, plant"
+111,0,0,fire - consequence,human,fire
+112,NA,3,"fatality, mining",NA,"explosion, people"
+113,0,0,"pollution, demolition, leak, ecological damage, people, environmental",NA,environmental
+114,0,0,,NA,NA
+115,0,0,"fire - consequence, evacuation, damage to equipment, storage",NA,"fire, people, plant"
+116,0,0,"fire - consequence, operational activities, mining",NA,fire
+117,0,0,"offshore, fire - consequence",NA,fire
+118,0,0,"material of construction failure, storage tanks, pollution, ecological damage",NA,environmental
+119,13, 8+,"fatality, injury, mining",NA,"explosion, people"
+120,0,0,"fire - consequence, damage to equipment, weather effects, fuel gas",process,"fire, plant"
+121,0,0,"pollution, ecological damage, material transfer",equipment,environmental
+122,0,0,"fire - consequence, storage tanks",NA,fire
+123,10, 32+,"vapour cloud explosion, injury, mining",equipment,"explosion, people"
+124,13,4,"excavation damage, human causes, fatality, injury",external,"explosion, people, plant"
+125,0,0,"flange failure, storage tanks, gas / vapour release, environmental, ecological damage, human causes",equipment,environmental
+126,18, 38+,"solids processing, injury, mining",NA,"explosion, people"
+127,18,38,"design or procedure error, vapour cloud explosion, injury, mining",NA,"explosion, people"
+128,0,0,"evacuation, design or procedure error",process,"people, plant"
+129,6,0,"fire - consequence, deliberate acts, processing, storage, evacuation, injury",NA,"fire, people"
+130,2,0,"fire - consequence, exploration, offshore, maintenance, injury",process,"explosion, fire, people"
+131,0,0,"storage tanks, pipeline failure, gas / vapour release, spill",equipment,environmental
+132,0,2,"fatality, storage tanks, propane",NA,"explosion, people"
+133,0,0,"storage tanks, corrosion, design or procedure error, pollution, environmental",equipment,environmental
+134,0,0,"storage tanks, spill, design or procedure error",NA,environmental
+135,0,0,"contractor error, demolition, evacuation, gas / vapour release",human,environmental
+136,0,0,"storage tanks, operation inadequate",NA,environmental
+137,7,2,"storage tanks, road vehicle, human causes, fatality, injury",NA,explosion
+138,0,0,"storage tanks, vandalism, design or procedure error, pollution",external,environmental
+139,5,4,"fire - consequence, fatality, injury, mining",NA,"explosion, fire, plant"
+140,24,4,"fatality, mining, injury",equipment,"explosion, plant"
+141,2,29,"fatality, mining, injury",NA,explosion
+142,0,2,"fall, fatality, safety procedures inadequate, management system inadequate, demolition, tools & access equipment",human,NA
+143,0,0,"rail transport, electrical equipment failure",NA,NA
+144,15,1,"fire - consequence, radioactive, safety equipment failure, fatality, injury",NA,fire
+145,1,0,"alkyne, acetylene, laboratory work, distillation, injury",NA,explosion
+146,0,0,"near miss, gas / vapour release",NA,"environmental, nearmiss"
+147,1,0,design or procedure error,NA,plant
+148,0,0,"storage tanks, design or procedure error",NA,environmental
+149,0,0,"isolation inadequate, design or procedure error",human,environmental
+150,0,0,"joint failure, gasket failure, material transfer, refining",equipment,environmental
+151,0,0,"exploration, sampling, fire - consequence, evacuation, transportation",NA,"fire, plant"
+152,6,2,"fire - consequence, welding, fatality",equipment,fire
+153,2,0,"laboratory work, contamination, safety procedures inadequate, injury",human,plant
+154,2,3,"storage tanks, fire - consequence, fatality",human,"explosion, fire"
+155,1,1,"storage tanks, fatality, entry into confined space, underground storage, injury",NA,explosion
+156,5,2,"fire - consequence, fatality, storage equipment",equipment,fire
+157,0,0,"exploration, evacuation, gas / vapour release, damage to equipment",NA,"environmental, explosion, plant"
+158,1,0,"fire - consequence, unidentified cause, injury","process, unidentified","explosion, fire"
+159,3,0,"fire - consequence, damage to equipment",NA,"fire, plant"
+160,0,1,"storage tanks, fire - consequence, fatality, sampling, explosion / pressure release",NA,fire
+161,0,0,"evacuation, gas / vapour release, exploration, natural gas",NA,environmental
+162,0,1,"fire - consequence, maintenance, offshore, fatality",NA,fire
+163,0,0,"storage, fire - consequence",NA,fire
+164,0,0,"fire - consequence, exploration",NA,"environmental, explosion, fire"
+165,1,0,"demolition, mechanical equipment failure, injury",NA,NA
+166,0,23,"fatality, mining",NA,explosion
+167,0,0,"fire - consequence, warehousing",NA,"explosion, fire"
+168,0,0,"fire - consequence, plant shutdown",NA,"fire, plant, transport"
+169,0,1,"storage tanks, refining, fatality",NA,explosion
+170,0,0,"fire - consequence, processing",NA,"explosion, fire"
+171,0,0,"fire - consequence, ecological damage, warehousing",NA,"environmental, fire"
+172,0,0,"inadequate mooring, collision, marine transport",external,"environmental, transport"
+173,1,1,"damage by backhoe, fatality",external,explosion
+174,0,0,"fire - consequence, explosion, storage",NA,"explosion, fire"
+175,0,0,"fire - consequence, damage to equipment, storage",NA,"fire, plant"
+176,0,0,evacuation,NA,NA
+177,0,0,"storage tanks, ecological damage",NA,environmental
+178,0,0,"storage tanks, fire - consequence",NA,fire
+179,0,0,fire - consequence,NA,fire
+180,NA,1,"demolition, fatality, human causes, injury",NA,NA
+181,0,0,"fire - consequence, power plant",NA,fire
+182,8,0,"fire - consequence, evacuation, warehousing, injury",NA,fire
+183,100+,0,"fire - consequence, contamination, gas / vapour release, storage, evacuation, injury",NA,"environmental, fire, plant"
+184,0,0,"fire/explosion, damage to equipment, storage",NA,plant
+185,0,0,"pollution, mechanical equipment failure, process control & instrumentation, storage, environmental",NA,environmental
+186,0,0,ecological damage,NA,environmental
+187,64,3,"fire - consequence, fatality, LPG, injury",NA,"explosion, fire"
+188,62,3,"fatality, injury",NA,explosion
+189,64,3,"fire - consequence, fatality",NA,"explosion, fire"
+190,31,8,"fatality, injury, mining",equipment,explosion
+191,0,0,"offshore, fire - consequence",NA,"fire, plant"
+192,4,0,"drilling/digging/ploughing vehicles, damage to equipment, evacuation, fire - consequence, exploration, product loss, drill, injury",NA,"fire, plant"
+193,0,1,"storage tanks, fatality",NA,explosion
+194,0,0,"offshore, gas / vapour release, evacuation",NA,"environmental, plant"
+195,NA,0,"fatality, mining",NA,explosion
+196,0,68,"fatality, mining",NA,explosion
+197,4,0,"maintenance, injury",NA,"environmental, explosion"
+198,0,0,"mechanical equipment failure, gas / vapour release, storage equipment, spill",NA,environmental
+199,3,0,"fire - consequence, storage",NA,"explosion, fire"
+200,0,17,"fire - consequence, fatality",NA,fire
+201,0,22,"storage, fire - consequence, explosion, fatality",NA,"explosion, fire"
+202,0,0,"container, crude oil",NA,environmental
+203,0,0,"drilling/digging/ploughing vehicles, natural gas, leak, fire - consequence",equipment,"explosion, fire"
+204,3,0,"storage tanks, spill",NA,"environmental, plant"
+205,10,0,"accidental mixing, environmental",chemical,explosion
+206,0,0,storage tanks,NA,environmental
+207,0,0,"material of construction failure, evacuation",NA,plant
+208,12,68,"fatality, mining",NA,explosion
+209,0,0,"fire - consequence, storage equipment, hot work",equipment,fire
+210,0,0,"fire - consequence, evacuation, exploration",NA,"fire, plant"
+211,0,0,"gas / vapour release, contamination, fire - consequence, storage, environmental",NA,"environmental, fire, plant"
+212,0,0,"evacuation, fire - consequence",NA,fire
+213,1,0,"safety procedures inadequate, fall, injury",human,NA
+214,0,1,"silo/hopper, storage",NA,NA
+215,0,1,fatality,NA,NA
+216,2,0,"operational activities, offshore, lifting equipment, inadequate guarding, safety procedures inadequate, injury",human,NA
+217,0,0,"contractor error, safety procedures inadequate, spill",human,environmental
+218,0,0,"storage, drainage system, ecological damage, leak",NA,environmental
+219,0,0,"fire - consequence, material transfer, storage tanks",NA,fire
+220,0,0,"tank failure, rupture, storage",equipment,"environmental, plant"
+221,0,0,"storage tanks, spill, contractor error, maintenance",human,environmental
+222,0,0,fire - consequence,NA,fire
+223,0,0,"fire - consequence, refining",NA,"explosion, fire"
+224,4,19,"fire - consequence, evacuation, valve failure",equipment,"explosion, fire"
+225,0,0,"fire - consequence, evacuation",NA,"explosion, fire"
+226,0,0,"damage to equipment, offshore, collision",external,plant
+227,0,0,storage tanks,NA,environmental
+228,18,0,"storage tanks, document errors",human,explosion
+229,0,0,"hose failure, spill",equipment,environmental
+230,0,0,"fire - consequence, warehousing",NA,"fire, plant"
+231,0,0,storage equipment,NA,explosion
+232,1,0,"fire/explosion, fire - consequence, gas / vapour release",NA,"environmental, fire"
+233,0,0,fire - consequence,NA,fire
+234,0,0,fire - consequence,NA,fire
+235,0,0,"evacuation, raffinate",NA,NA
+236,1,0,"packaging equipment, warehousing",NA,explosion
+237,0,2,"drilling/digging/ploughing vehicles, excavation, fatality",NA,explosion
+238,0,0,fire - consequence,NA,"explosion, fire"
+239,0,0,fire - consequence,NA,fire
+240,5,8,"fire - consequence, fireworks, storage",external,fire
+241,7,0,"storage tanks, gas / vapour release, operator error",human,environmental
+242,1,0,"gas / vapour release, storage tanks, cleaning, unwanted chemical reaction",NA,environmental
+243,15,1,"damage to equipment, storage, silo/hopper, processing",NA,"explosion, plant"
+244,0,0,"fire - consequence, near miss, storage tanks",NA,"fire, nearmiss"
+245,0,1,safety procedures inadequate,human,NA
+246,0,0,"fire - consequence, storage tanks",NA,fire
+247,0,0,"storage tanks, gas / vapour release",NA,environmental
+248,0,0,"excavation, damage to equipment, drilling/digging/ploughing vehicles",NA,plant
+249,0,0,"fire - consequence, storage",NA,"explosion, fire"
+250,2,0,"scaffolding, near miss, design or procedure error",NA,nearmiss
+251,0,6,"storage equipment, damage to equipment",equipment,"explosion, plant"
+252,1,2,"storage equipment, fatality",NA,explosion
+253,0,0,,NA,NA
+254,0,0,exploration,NA,NA
+255,0,0,"fire - consequence, storage, warehousing, unknown chemicals",equipment,NA
+256,2,0,"fire - consequence, reactors and reaction equipment, laboratory work, charging reactor",NA,NA
+257,17,0,"fire - consequence, gas / vapour release, warehousing, storage",NA,NA
+258,0,0,"fire - consequence, storage, warehousing, unknown chemicals",NA,NA
+259,0,0,"fire - consequence, offshore",NA,NA
+260,0,0,"fire - consequence, damage to equipment, offshore",NA,plant
+261,0,0,"sinking, offshore",NA,transport
+262,0,0,sinking,NA,transport
