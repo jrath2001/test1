@@ -1,0 +1,207 @@
+﻿Id,Consequences
+1,"explosion, people"
+2,"environmental, explosion, fire, people"
+3,explosion
+5,"environmental, people"
+6,fire
+7,"explosion, people"
+8,"fire, people"
+9,"fire, people"
+10,"explosion, fire, people"
+11,"environmental, explosion, people"
+13,"explosion, fire, people"
+14,"fire, people, plant"
+15,"people, plant"
+16,people
+17,"environmental, fire, people, plant"
+18,"environmental, fire, people, plant"
+19,"explosion, people, plant"
+20,"explosion, fire, people"
+21,"people, plant"
+22,"fire, people"
+23,"fire, people, plant"
+24,"explosion, people"
+25,"fire, plant"
+26,"environmental, people"
+27,"environmental, fire, people"
+28,plant
+29,environmental
+30,people
+31,"explosion, people"
+32,"explosion, fire"
+34,"fire, people"
+35,"people, plant"
+37,"explosion, fire, people"
+38,"explosion, fire, people"
+39,"environmental, fire"
+40,"environmental, explosion, fire"
+41,"explosion, people"
+42,"explosion, people"
+43,"environmental, fire, people"
+44,"environmental, fire, people, plant"
+45,"explosion, people"
+46,"explosion, plant"
+47,"fire, people"
+48,"explosion, fire, people, plant"
+49,"explosion, fire, people"
+50,"fire, people, plant"
+51,"environmental, explosion, fire, plant"
+52,"fire, plant"
+53,"environmental, fire"
+54,"fire, people"
+55,"environmental, people"
+56,"fire, people, plant"
+57,"explosion, fire, people"
+58,explosion
+60,"explosion, people"
+61,"environmental, explosion, people"
+62,"environmental, people, plant"
+63,environmental
+65,"explosion, fire"
+67,environmental
+68,"explosion, people"
+69,"people, plant"
+70,"explosion, people"
+71,"environmental, people"
+72,"explosion, fire, people"
+73,fire
+74,fire
+76,people
+78,fire
+81,people
+82,people
+84,people
+85,"explosion, fire, people"
+86,"explosion, fire, people"
+87,plant
+88,environmental
+89,"people, plant"
+90,"fire, people"
+91,"explosion, people"
+92,people
+94,fire
+96,"explosion, people"
+97,environmental
+98,"explosion, people"
+99,"explosion, people"
+100,"explosion, people"
+101,"people, plant"
+103,fire
+104,"fire, people"
+105,"environmental, plant"
+106,people
+107,environmental
+108,"explosion, people"
+109,"explosion, fire, people"
+110,"explosion, fire, plant"
+112,"explosion, people"
+113,environmental
+114,
+115,"fire, people, plant"
+116,fire
+117,fire
+118,environmental
+119,"explosion, people"
+122,fire
+126,"explosion, people"
+127,"explosion, people"
+129,"fire, people"
+132,"explosion, people"
+134,environmental
+136,environmental
+137,explosion
+139,"explosion, fire, plant"
+141,explosion
+143,
+144,fire
+145,explosion
+146,"environmental, nearmiss"
+147,plant
+148,environmental
+151,"fire, plant"
+155,explosion
+157,"environmental, explosion, plant"
+159,"fire, plant"
+160,fire
+161,environmental
+162,fire
+163,fire
+164,"environmental, explosion, fire"
+165,
+166,explosion
+167,"explosion, fire"
+168,"fire, plant, transport"
+169,explosion
+170,"explosion, fire"
+171,"environmental, fire"
+174,"explosion, fire"
+175,"fire, plant"
+176,
+177,environmental
+178,fire
+179,fire
+180,
+181,fire
+182,fire
+183,"environmental, fire, plant"
+184,plant
+185,environmental
+186,environmental
+187,"explosion, fire"
+188,explosion
+189,"explosion, fire"
+191,"fire, plant"
+192,"fire, plant"
+193,explosion
+194,"environmental, plant"
+195,explosion
+196,explosion
+197,"environmental, explosion"
+198,environmental
+199,"explosion, fire"
+200,fire
+201,"explosion, fire"
+202,environmental
+204,"environmental, plant"
+206,environmental
+207,plant
+208,explosion
+210,"fire, plant"
+211,"environmental, fire, plant"
+212,fire
+214,
+215,
+218,environmental
+219,fire
+222,fire
+223,"explosion, fire"
+225,"explosion, fire"
+227,environmental
+230,"fire, plant"
+231,explosion
+232,"environmental, fire"
+233,fire
+234,fire
+235,
+236,explosion
+237,explosion
+238,"explosion, fire"
+239,fire
+242,environmental
+243,"explosion, plant"
+244,"fire, nearmiss"
+246,fire
+247,environmental
+248,plant
+249,"explosion, fire"
+250,nearmiss
+252,explosion
+253,
+254,
+256,
+257,
+258,
+259,
+260,plant
+261,transport
+262,transport
